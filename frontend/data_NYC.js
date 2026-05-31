@@ -1934,5 +1934,8 @@ const JURISDICTIONS = {"bronx_ny": {
                 "Expand Big Apple Connect and broadband access on Staten Island's North Shore"
             ]
         }
+     }
     ]
+}       
+};       
 },
