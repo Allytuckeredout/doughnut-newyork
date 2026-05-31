@@ -1,0 +1,138 @@
+{
+  "borough": "Brooklyn",
+  "color": "#e07a5f",
+  "dimensions": [
+    {
+      "ring": "social", "id": "food", "name": "Food", "severity": 100,
+      "context": "Brooklyn adult food insecurity is roughly 20.2% (2023/2024 estimates) — second-highest in NYC after the Bronx. Drivers include East New York, Brownsville, and Bushwick where SNAP enrollment is high and food retail is limited. Growing but gentrifying areas like Bed-Stuy and Crown Heights mask neighborhood need even as displacement accelerates.",
+      "actions": ["Expand SNAP double-up programs at Brooklyn farmers markets (Greenmarket, Flatbush)", "Fund community fridges and food pantries in East New York and Brownsville", "Protect affordable food retail in gentrifying neighborhoods through commercial rent stabilization", "Strengthen summer and school meal programs in CDs 5, 16, 17"],
+      "source": "NYC DOHMH Community Health Profiles", "sourceUrl": "https://www.nyc.gov/site/doh/data/data-publications/profiles.page", "year": "2024"
+    },
+    {
+      "ring": "social", "id": "health", "name": "Health & Healthcare", "severity": 50,
+      "context": "Brooklyn life expectancy is roughly 80.8 years — mid-pack in NYC. Brownsville and East New York expectancy drops below 77; Park Slope and Carroll Gardens exceed 84. The borough average hides a 7+ year gap. Preventable hospitalizations remain elevated in the same neighborhoods experiencing concentrated poverty, high eviction rates, and poor air quality.",
+      "actions": ["Scale DOHMH Neighborhood Health Action Centers in Brownsville and East NY", "Expand Community Health Worker programs in south and east Brooklyn", "Embed housing navigators in safety-net primary care clinics", "Fund chronic-disease prevention targeting diabetes, asthma, and maternal health"],
+      "source": "NYC DOHMH Health Atlas", "sourceUrl": "https://www.nyc.gov/site/doh/data/data-publications/profiles.page", "year": "2024"
+    },
+    {
+      "ring": "social", "id": "education", "name": "Education", "severity": 50,
+      "context": "Brooklyn's high school graduation rate is roughly 83%, near the NYC average of 85%. BA+ attainment is around 39% (near NYC average). Chronic absenteeism spikes in District 23 (Brownsville) and District 19 (East New York). Displacement of families from gentrifying neighborhoods is disrupting school stability across central and east Brooklyn.",
+      "actions": ["Expand 3-K and Pre-K quality in Districts 19 and 23", "Fund community schools with wraparound services in high-need areas", "Reduce chronic absenteeism through attendance teams and housing stability supports", "Protect school stability for families displaced by gentrification"],
+      "source": "NYSED / NYC DOE", "sourceUrl": "https://data.nysed.gov/", "year": "2023"
+    },
+    {
+      "ring": "social", "id": "income", "name": "Income & Work", "severity": 100,
+      "context": "Brooklyn's median household income is roughly $74,000, and the poverty rate is 19.8%, with child poverty near 28%. Brooklyn has NYC's second-highest income inequality after Manhattan — Greenpoint and Park Slope versus East New York and Brownsville. Workers in south and east Brooklyn face wage stagnation in service and care sectors against rapid rent inflation.",
+      "actions": ["Expand Child Tax Credit + EITC outreach in south and east Brooklyn (NYC Free Tax Prep)", "Scale sectoral workforce partnerships in health, tech, and green industries", "Support worker cooperative development in Bed-Stuy, Crown Heights, East NY", "Invest in childcare accessibility to unlock labor-force participation"],
+      "source": "ACS 5-Year Estimates", "sourceUrl": "https://data.census.gov/", "year": "2023"
+    },
+    {
+      "ring": "social", "id": "housing", "name": "Housing", "severity": 100,
+      "context": "Brooklyn eviction filing rates are roughly 60–70 per 1,000 rental units (2024) — third-highest in NYC after the Bronx and Queens. Severe rent burden affects roughly 31% of renters. Rapid displacement pressure has pushed median rents in Crown Heights, Bed-Stuy, and Bushwick up 30–50% since 2019, accelerating the removal of long-term Black and Latino households.",
+      "actions": ["Expand Right to Counsel enforcement in Brooklyn Housing Court", "Fund ERAP successor programs for eviction prevention in highest-filing zip codes", "Preserve affordable housing through HPD anti-displacement programs in gentrifying areas", "Support Brooklyn community land trusts (East New York, Crown Heights, Bed-Stuy)"],
+      "source": "Furman Center State of the City 2024", "sourceUrl": "https://furmancenter.org/stateofthecity", "year": "2024"
+    },
+    {
+      "ring": "social", "id": "water", "name": "Water & Sanitation", "severity": 50,
+      "context": "NYC drinking water meets 100% EPA standards. Brooklyn's 311 flooding complaints are elevated in Gowanus, Red Hook, Canarsie, Sheepshead Bay, and Coney Island during storm events — Brooklyn's coastal flood exposure is among NYC's highest. Climate flooding risk is compounding as sea levels rise and precipitation intensity increases.",
+      "actions": ["Accelerate NYC DEP green infrastructure siting in Gowanus and Red Hook", "Advance coastal resiliency projects for south Brooklyn (Army Corps shoreline protection)", "Expand Basement Apartment Conversion Pilot with flood-safety requirements", "Coordinate 311 flooding data with NYCEM for rapid stormwater response"],
+      "source": "NYC DEP Water Quality / NYC 311", "sourceUrl": "https://www.nyc.gov/site/dep/water/drinking-water.page", "year": "2024"
+    },
+    {
+      "ring": "social", "id": "energy", "name": "Energy", "severity": 50,
+      "context": "Brooklyn household energy burden is roughly 6–7% of income — above Manhattan but below the Bronx. Old brownstones and NYCHA stock drive the burden. LL97 compliance is stronger in large-building sub-sectors but mid-size multifamily stock is lagging, particularly in neighborhoods undergoing uneven renovation.",
+      "actions": ["Expand NYSERDA EmPower+ in Brooklyn NYCHA and LIHTC portfolios", "Enforce LL97 on mid-size Brooklyn multifamily (brownstones, 5–20 unit buildings)", "Fund community solar with Brooklyn-based subscription priority", "Pair utility disconnection moratoria with arrears forgiveness during emergencies"],
+      "source": "DOE LEAD Tool / NYSERDA", "sourceUrl": "https://www.energy.gov/scep/slsc/low-income-energy-affordability-data-lead-tool", "year": "2024"
+    },
+    {
+      "ring": "social", "id": "equity", "name": "Social Equity", "severity": 100,
+      "context": "Brooklyn has stark intra-borough inequality: Park Slope median household income exceeds $150,000; Brownsville is around $30,000 — a 5x gap within 3 miles. Gentrification-driven displacement of Black households in Bed-Stuy and Crown Heights has accelerated. The Black-white homeownership and wealth gap follows citywide patterns, compounded by a century of redlining in Brooklyn.",
+      "actions": ["Expand first-generation homeownership down-payment assistance (HPD) in redlined CDs", "Fund community wealth-building (worker cooperatives, CLTs) in Brownsville and East NY", "Strengthen NYC Inclusionary Housing in rezoned Brooklyn areas", "Invest reparatively in historically redlined neighborhoods through CDBG-DR"],
+      "source": "Furman Center / NYC Comptroller", "sourceUrl": "https://furmancenter.org/stateofthecity", "year": "2024"
+    },
+    {
+      "ring": "social", "id": "justice", "name": "Peace & Justice", "severity": 100,
+      "context": "Brooklyn neighborhood incarceration rates average 400–500 per 100,000 borough-wide, but Brownsville (~1,100/100K), East New York, and Bedford-Stuyvesant spike to Bronx-level numbers. NYPD precincts 73, 75, 77, and 79 drive most admissions. Racial disparities in arrest and incarceration are severe and concentrated on a small number of blocks.",
+      "actions": ["Expand alternatives to incarceration in south and east Brooklyn", "Fund hyperlocal violence interruption programs (Man Up! Inc., Save Our Streets Brooklyn)", "Eliminate low-level arrest quotas that drive racial disparity", "Invest in reentry housing and employment in Brownsville and East New York"],
+      "source": "NYC Open Data (NYPD) / Prison Policy Initiative", "sourceUrl": "https://opendata.cityofnewyork.us/", "year": "2022"
+    },
+    {
+      "ring": "social", "id": "voice", "name": "Political Voice", "severity": 50,
+      "context": "Brooklyn presidential turnout is roughly 55% (2024), and local election turnout is 18–22%. There is large demographic variance: Park Slope turnout is above the NYC average; East New York and Brownsville are below. Displacement is reducing civic continuity in rapidly gentrifying areas as long-term residents are pushed out.",
+      "actions": ["Fund participatory budgeting expansion in low-turnout Brooklyn CDs", "Support Brooklyn-based voter registration organizations", "Strengthen early voting + ranked-choice voting education in highest-displacement neighborhoods", "Expand Community Board outreach in languages beyond English and Spanish"],
+      "source": "NYC Board of Elections", "sourceUrl": "https://vote.nyc/", "year": "2024"
+    },
+    {
+      "ring": "social", "id": "gender", "name": "Gender Equality", "severity": 50,
+      "context": "NYC's gender wage gap sits at approximately 87 cents on the dollar citywide. Borough-level wage data is not published; this indicator reflects citywide data and should be read as context rather than a Brooklyn-specific measurement.",
+      "actions": ["Expand NYC salary transparency law enforcement (NYC CCHR)", "Fund childcare accessibility as a labor-force participation lever", "Support women-led businesses and cooperatives through Brooklyn SBDC", "Close pay disparities in contracted health + human services workforces"],
+      "source": "ACS (citywide)", "sourceUrl": "https://data.census.gov/", "year": "2023"
+    },
+    {
+      "ring": "social", "id": "transit", "name": "Transit Access", "severity": 0,
+      "context": "Roughly 93% of Brooklyn residents live within a half-mile of a subway or bus. Transit deserts persist in Canarsie, Mill Basin, Sea Gate, and Marine Park. Weekend service cuts on the L, A, and G affect reliability across central Brooklyn. Commutes exceeding 60 minutes are common for south and east Brooklyn residents traveling to Manhattan.",
+      "actions": ["Accelerate MTA bus network redesign in south and east Brooklyn", "Fair Fares expansion + enrollment outreach (DSS, MTA)", "Fund safe bus-stop infrastructure (shelter, lighting, seating)", "Advocate for restored weekend service on L, A, G lines"],
+      "source": "MTA GTFS / ACS", "sourceUrl": "https://new.mta.info/developers", "year": "2023"
+    },
+    {
+      "ring": "social", "id": "digital", "name": "Digital Access", "severity": 50,
+      "context": "Brooklyn has roughly 15% of households without home broadband, near the NYC average of 12%. The gap is elevated in East New York and Brownsville (around 22%) and Coney Island. Big Apple Connect is expanding in NYCHA buildings but adoption challenges remain in non-NYCHA low-income rental stock.",
+      "actions": ["Expand NYC Internet Master Plan + Big Apple Connect in Brooklyn NYCHA", "Fund community-owned broadband pilots in Brownsville and East New York", "Expand device distribution programs in schools and libraries", "Prioritize digital literacy in Brooklyn adult education programs"],
+      "source": "ACS B28002", "sourceUrl": "https://data.census.gov/", "year": "2023"
+    },
+    {
+      "ring": "ecological", "id": "climate", "name": "Climate Change", "severity": 50,
+      "context": "Brooklyn per-capita emissions are lower than Manhattan's but higher than the Bronx — a mix of large commercial and dense residential buildings. Gowanus and Navy Yard LL97 risk is concentrated in industrial conversion areas. Coastal flood exposure in Red Hook and Sunset Park compounds the long-term climate risk profile.",
+      "actions": ["Enforce LL97 compliance in Brooklyn large commercial and multifamily buildings", "Fund building electrification retrofits through NYSERDA + Con Ed incentives", "Expand coastal resilience planning for Red Hook, Sunset Park, and south Brooklyn", "Integrate climate resilience into HPD + NYCHA Brooklyn capital plans"],
+      "source": "NYC LL84/LL97 / NYC Emissions Inventory", "sourceUrl": "https://www.nyc.gov/site/sustainability/our-programs/nyc-climate-action.page", "year": "2024"
+    },
+    {
+      "ring": "ecological", "id": "ocean", "name": "Ocean Acidification", "severity": 100,
+      "context": "Ocean acidification is a global planetary boundary in the red zone — ocean pH has dropped ~0.1 units since preindustrial times, a ~26% increase in acidity. NYC contributes through emissions rather than causing it locally; New York Harbor shows measurable pH decline consistent with regional trends. Note: this is a global indicator; severity is the same across all five boroughs.",
+      "actions": ["Decarbonize the NYC economy consistent with the 2050 net-zero commitment", "Protect NY Harbor coastal ecosystems (Billion Oyster Project, living shorelines)", "Monitor and publish NY Harbor pH trends alongside global benchmarks", "Advocate federal + international emission reductions through mayoral coalitions"],
+      "source": "NOAA / EPA national monitoring", "sourceUrl": "https://gml.noaa.gov/ccgg/carbontracker/", "year": "2024"
+    },
+    {
+      "ring": "ecological", "id": "chemicals", "name": "Chemical Pollution", "severity": 150,
+      "context": "Brooklyn has NYC's highest concentration of active Superfund sites: the Gowanus Canal (active EPA Superfund cleanup), Newtown Creek (shared with Queens, active cleanup), and the Meeker Avenue Plume in Williamsburg/Greenpoint designated as a state Superfund site in 2024. Legacy industrial contamination is concentrated in Red Hook, Sunset Park, and Newtown Creek — the same neighborhoods with high environmental justice concerns.",
+      "actions": ["Accelerate EPA Gowanus Canal Superfund cleanup timeline", "Fund NYSDEC Meeker Avenue Plume remediation in Williamsburg/Greenpoint", "Require community benefit agreements for all Newtown Creek brownfield redevelopments", "Publicly map cumulative pollution burden by Brooklyn census tract"],
+      "source": "EPA CERCLIS / NYSDEC BCP", "sourceUrl": "https://www.epa.gov/cleanups/cleanups-my-community", "year": "2024"
+    },
+    {
+      "ring": "ecological", "id": "nitrogen", "name": "Nitrogen & Phosphorus", "severity": 100,
+      "context": "Brooklyn CSOs discharge into the Gowanus Canal, Newtown Creek, and Jamaica Bay — three of NYC's most impaired waterways. Gowanus CSO reduction tunnels are under construction ($1.2B project). Jamaica Bay nitrogen loading drives ecosystem degradation affecting shorebird populations and the broader estuary.",
+      "actions": ["Continue Gowanus Canal CSO reduction tunnel construction", "Fund Jamaica Bay water-quality monitoring and CSO reduction", "Build out sewer separation in highest-discharge Brooklyn watersheds", "Enforce NYSDEC consent orders for CSO reduction deadlines"],
+      "source": "NYC DEP / NYSDEC", "sourceUrl": "https://www.nyc.gov/site/dep/water/combined-sewer-overflows.page", "year": "2024"
+    },
+    {
+      "ring": "ecological", "id": "freshwater", "name": "Freshwater", "severity": -50,
+      "context": "NYC is one of the most water-efficient major U.S. cities, consuming roughly 75 gallons per person per day compared to the 88-gallon U.S. average. The Catskill/Delaware watershed supplies over 90% of NYC's drinking water under the landmark 1997 Watershed Agreement. This is one of the city's strongest dimensions and is similar across all five boroughs.",
+      "actions": ["Maintain Catskill/Delaware watershed protection funding", "Continue residential metering and leak detection programs", "Expand greywater reuse pilots (DEP, BuildingEnergy programs)", "Preserve NYC's filtration-avoidance determination status"],
+      "source": "NYC DEP Water Supply Reports", "sourceUrl": "https://www.nyc.gov/site/dep/water/drinking-water-supply.page", "year": "2023"
+    },
+    {
+      "ring": "ecological", "id": "greenspace", "name": "Green Space & Biodiversity", "severity": 50,
+      "context": "Brooklyn tree canopy is roughly 22% borough-wide, but sparse in East New York, Brownsville (under 12%), and Sunset Park. Urban heat islands of +5 to +7°F affect central and east Brooklyn. Prospect Park and Marine Park anchor green space, but distribution is inequitable — the neighborhoods with worst heat exposure have the least tree cover.",
+      "actions": ["Plant trees in East New York, Brownsville, and Sunset Park heat-vulnerable tracts", "Expand cool-roof + cool-street programs (DCP, DDC)", "Protect community gardens from development pressure (NYRP, Green Thumb)", "Integrate heat resilience into Brooklyn NYCHA capital plans"],
+      "source": "NYC Parks GIS / NYC TreesCount", "sourceUrl": "https://tree-map.nycgovparks.org/", "year": "2023"
+    },
+    {
+      "ring": "ecological", "id": "biodiversity", "name": "Biodiversity", "severity": 50,
+      "context": "Prospect Park, Jamaica Bay Wildlife Refuge (adjacent to Brooklyn), Marine Park, and Green-Wood Cemetery provide significant habitat. Brooklyn iNaturalist rankings are mid-range for NYC. Jamaica Bay shorebird populations are declining despite restoration efforts, driven by nitrogen loading, sea-level rise, and marsh loss.",
+      "actions": ["Protect and expand Marine Park and Green-Wood Cemetery natural areas", "Fund Jamaica Bay shorebird habitat restoration", "Support citizen-science biodiversity monitoring (iNaturalist, BioBlitzes) in Brooklyn", "Maintain Jamaica Bay ecosystem restoration (Jamaica Bay Rockaway Parks Conservancy)"],
+      "source": "NYC Audubon / iNaturalist NYC", "sourceUrl": "https://www.inaturalist.org/places/kings-county-new-york-us", "year": "2023"
+    },
+    {
+      "ring": "ecological", "id": "air", "name": "Air Quality", "severity": 100,
+      "context": "Brooklyn PM2.5 annual mean is roughly 9–10 μg/m³, above the WHO guideline. The BQE corridor (Sunset Park, Red Hook, Gowanus, Greenpoint) produces elevated NO2. Asthma ED visit rates are elevated in Bushwick, East New York, and Brownsville — 1.5–2x the Manhattan rate south of 14th Street — driven by truck traffic and diesel-intensive operations.",
+      "actions": ["Expand electric truck deployment in Brooklyn fleets and distribution centers", "Enforce idling laws + fund enforcement through NYC DEP (BQE corridor)", "Continue MTA bus electrification in Brooklyn depots", "Fund community air monitoring and asthma screening in Bushwick and East New York"],
+      "source": "NYC DOHMH NYCCAS / EPA AQS", "sourceUrl": "https://www.nyc.gov/site/doh/data/data-publications/air-quality-nyc-community-air-survey.page", "year": "2024"
+    },
+    {
+      "ring": "ecological", "id": "ozone", "name": "Ozone Depletion", "severity": -50,
+      "context": "Stratospheric ozone depletion is one of the few planetary boundaries trending positively — the 1987 Montreal Protocol successfully phased out CFCs, and the ozone layer is projected to fully recover by around 2066. NYC's contribution at modern scale is negligible. Note: this is a global indicator; severity is the same across all five boroughs.",
+      "actions": ["Maintain compliance with Montreal Protocol + Kigali Amendment HFC phase-downs", "Enforce AIM Act HFC restrictions in refrigeration and cooling", "Procure low-GWP refrigerants for city fleets and buildings (DDC, DCAS)", "Support continued atmospheric monitoring (advocacy, not local action)"],
+      "source": "NOAA / EPA national ozone monitoring", "sourceUrl": "https://gml.noaa.gov/ozwv/", "year": "2024"
+    }
+  ]
+}
